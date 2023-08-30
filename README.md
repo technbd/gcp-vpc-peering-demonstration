@@ -354,18 +354,14 @@ After the VM is created, we will get following:
 
 1. In the Cloud Console, click on the navigation menu (☰) in the top-left corner and select "**VPC network**" then click "**VPC network peering**". 
 
-
-![Screenshot](./assets/vpc-peering/db-to-web/1.jpg)
-
-
 2. Click '**Create connection**':
-
-![Screenshot](./assets/vpc-peering/db-to-web/2.jpg)
+![Screenshot](./assets/vpc-peering/db-to-web/1.jpg)
 
 
 3. Click '**Continue**':
 
-![Screenshot](./assets/vpc-peering/db-to-web/3.jpg)
+![Screenshot](./assets/vpc-peering/db-to-web/2.jpg)
+
 
 4. VPC Network for your peering configuration: 
 - Peering Name: db-vpc1-to-web-vpc1
@@ -380,13 +376,11 @@ After the VM is created, we will get following:
 - Exchange subnet routes with privately used public IPv4 Addresses
   - Export subnet routes with privately used public IPv4 Addresses
 
+![Screenshot](./assets/vpc-peering/db-to-web/3.jpg)
+
+4. Click the "**CREATE**":
+
 ![Screenshot](./assets/vpc-peering/db-to-web/4.jpg)
-
-
-5. Click the "**CREATE**":
-
-
-![Screenshot](./assets/vpc-peering/db-to-web/5.jpg)
 
 
 
